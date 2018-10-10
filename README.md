@@ -4,3 +4,8 @@ Floods are the most common and widespread of all natural disasters. Flood is one
 
 Currently, hydrological models are used to get the prediction of flood water levels. However, we want to predict the flood with various parameters like weather forecasts, amount of rainfall, temperature and hydreological maps. Such models are difficult to develop since they involve complex system such as the dynamic of flood water level. Flood water level fluctuate in a non-linear way, thus it is very difficult to predict the flood water level.
 
+We know that ANN has the capability of mapping the non-linear relationship, thus this technique is reliable for predicting flood. Another important criterion of ANN is that it allows multiple variables both in the input and output layers. This is very crucial for flood prediction since the river water level at flood location are often functions of many crucial variables such as river water level at several upstream locations. 
+Neural Network Autoregressive with Exogenous Input (NNARX) is one type of ANN models.
+
+
+
